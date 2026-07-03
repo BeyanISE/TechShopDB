@@ -95,7 +95,7 @@ Through this project, I gained practical experience in:
 ![Customers](musteriler.png)
 
 ### Products
-![Products](siparisler.png)
+![Products](siparişler.png)
 
 ### Reports
 ![Reports](raporlar.png)
