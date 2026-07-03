@@ -1,0 +1,1 @@
+UPDATE Siparisler SET Durum = 'Teslim' WHERE SiparisID = 2;

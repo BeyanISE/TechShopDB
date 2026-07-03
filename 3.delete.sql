@@ -1,0 +1,1 @@
+DELETE FROM Musteriler WHERE Email = 'test2@mail.com';
