@@ -90,10 +90,15 @@ Through this project, I gained practical experience in:
 ### Entity Relationship Diagram
 
 ![ER Diagram](ERD.png)
-![Customers](musteriler.png)
-![Products](siparişler.png)
-![Reporlar](reporlar.png)
 
+### Customers
+![Customers](musteriler.png)
+
+### Products
+![Products](siparisler.png)
+
+### Reports
+![Reports](raporlar.png)
 > Application screenshots will be added soon.
 
 ---
