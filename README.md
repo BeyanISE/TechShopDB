@@ -91,8 +91,8 @@ Through this project, I gained practical experience in:
 
 ![ER Diagram](ERD.png)
 ![Customers](musteriler.png)
-![Products](products.png)
-![Reports](reports.png)
+![Products](siparişler.png)
+![Reports](reporlar.png)
 
 > Application screenshots will be added soon.
 
